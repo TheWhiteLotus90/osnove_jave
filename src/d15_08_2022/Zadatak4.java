@@ -4,7 +4,7 @@ public class Zadatak4 {
 
 	public static void main(String[] args) {
 //	Napisati metodu koja stampa podatke o korisniku u formatu:
-//	JMBG: [jmbg]
+//	                JMBG: [jmbg]
 //			Ime: [ime]
 //			Prezime: [prezime]
 //			God. rodjenja: [god]
